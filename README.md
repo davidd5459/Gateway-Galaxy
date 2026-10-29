@@ -4,10 +4,7 @@
 
 Demo video. Click to open in YouTube
 
-[![Gateway Demo](https://img.youtube.com/vi/haEn1a1Hde8/0.jpg)](https://www.youtube.com/watch?v=haEn1a1Hde8)
-
-
-
+[![Gateway Demo](https://img.youtube.com/vi/haEn1a1Hde8/maxresdefault.jpg)](https://www.youtube.com/watch?v=haEn1a1Hde8)
 
 
 ## Water Shader
